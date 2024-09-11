@@ -1,0 +1,23 @@
+body{
+   
+    background: radial-gradient(circle, rgba(255, 182, 193, 1)0%, rgba(219, 112, 147, 1) 100%);
+}
+.caixa{
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: solid 5px;
+    border-color: aqua;
+    width: 1500px;
+    height: 900px;
+    background: radial-gradient(circle, rgba(75, 0, 130, 1) 0%, rgba(106, 90, 205, 1) 100%);
+}
+.bolha{
+    background-image: url("https://www.tediado.com.br/wp-content/uploads/2018/12/gatos-engracados-e-fofos-que-conquistaram-a-internet-04.jpg");
+    width: 150px;
+    height: 100px;
+    background-size: cover;
+    position: relative;
+    left: 750px;
+    top: 400px;
+}
